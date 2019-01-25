@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * Acknowledgment
-Based on TheOdinProject Tutorial
+  Based on TheOdinProject Tutorial
